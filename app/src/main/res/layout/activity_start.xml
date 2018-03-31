@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.maniy.tot_hotel.StartActivity">
+
+
+    <Button
+        android:id="@+id/newHotel"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/new_hotel_click_here_to_register"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="128dp"
+        android:background="#098764"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:id="@+id/exisitingHotel"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/exisitng_hotels_click_here"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="#ea2c39"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:id="@+id/test"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/orders_received"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="#6303ff"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

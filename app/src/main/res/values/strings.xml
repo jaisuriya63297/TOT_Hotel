@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TOT_Hotel</string>
+    <string name="enter_your_hotel_name">Enter your Hotel Name</string>
+    <string name="Enter_your_hotel_address">Enter your Hotel Address</string>
+    <string name="enter_no_of_employees">Enter the number of Employee</string>
+    <string name="enter_no_of_delivery_boys">Enter the number of delivery boys</string>
+    <string name="enter_the_first_food">Enter the food name with price</string>
+    <string name="submit">submit</string>
+    <string name="send_button_label">send</string>
+    <string name="new_hotel_click_here_to_register">New Hotel? Click Here to Register</string>
+    <string name="exisitng_hotels_click_here">Exisitng Hotels Click Here</string>
+    <string name="test">test</string>
+    <string name="orders_received">Orders Received</string>
+</resources>
